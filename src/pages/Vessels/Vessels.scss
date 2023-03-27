@@ -1,0 +1,28 @@
+.vessels {
+  width: 100%;
+  &-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    &-back {
+      width: 16px;
+      height: 16px;
+      margin-right: 10px;
+      cursor: pointer;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-title {
+      font-size: 1.8rem;
+    }
+  }
+  .container {
+    overflow-x: scroll;
+  }
+}

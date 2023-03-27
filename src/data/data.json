@@ -1,0 +1,274 @@
+{
+  "Ports": [
+    {
+      "Name": "Antwerpen",
+      "Description": "Port of Antwerp-Bruges is the second largest port in Europe. With connections to more than 800 destinations, it connects the European continent to the rest of the world. Port of Antwerp-Bruges generates 73,700 direct jobs and no less than €20 billion in added value.",
+      "Country": "Belgium",
+      "No. of Terminals": 2,
+      "No. of Berths": 12,
+      "Emissions rating (from A to F)": "A",
+      "Vessel calls": 412,
+      "Tugboat jobs": 132
+    },
+    {
+      "Name": "Hercules",
+      "Description": "Port Hercules is the only deep-water port in Monaco. The port has been in use since ancient times. The modern port was completed in 1926, and underwent substantial improvements in the 1970s. It covers almost 40 acres, enough to provide anchorage for up to 700 vessels.",
+      "Country": "Monaco",
+      "No. of Terminals": 3,
+      "No. of Berths": 31,
+      "Emissions rating (from A to F)": "F",
+      "Vessel calls": 342,
+      "Tugboat jobs": 123
+    },
+    {
+      "Name": "Rio De Jan Eiro",
+      "Description": "The Port Authority of Rio de Janeiro is responsible for the management of public ports in the State of Rio de Janeiro, which comprises the ports of Rio de Janeiro, Itaguaí, Niterói and Angra dos Reis.",
+      "Country": "Brazil",
+      "No. of Terminals": 12,
+      "No. of Berths": 21,
+      "Emissions rating (from A to F)": "C",
+      "Vessel calls": 234,
+      "Tugboat jobs": 532
+    },
+    {
+      "Name": "Singapore",
+      "Description": "The Port of Singapore refers to the collective facilities and terminals that conduct maritime trade and handles Singapore's harbours and shipping. It has been ranked as the top maritime capital of the world since 2015.",
+      "Country": "Singapore",
+      "No. of Terminals": 23,
+      "No. of Berths": 52,
+      "Emissions rating (from A to F)": "D",
+      "Vessel calls": 342,
+      "Tugboat jobs": 421
+    },
+    {
+      "Name": "Fecamp",
+      "Description": "FECAMP is a Medium-sized Port. The types of vessels regularly calling at FECAMP are Fishing (36%), General Cargo (13%), Other (8%), Offshore Supply Ship (8%), SAR (6%). The last vessel called at this port was JLD LAETITIA, 44m and 38s ago. The maximum length of the vessels recorded to having entered this port is 109 meters. The maximum draught is 6.2 meters. The maximum Deadweight is 6308t.",
+      "Country": "France",
+      "No. of Terminals": 14,
+      "No. of Berths": 24,
+      "Emissions rating (from A to F)": "A",
+      "Vessel calls": 234,
+      "Tugboat jobs": 224
+    },
+    {
+      "Name": "Abbot Point",
+      "Description": "Abbot Point Port is home to the North Queensland Export Terminal, the most northerly deepwater coal port of Australia, situated approximately 25 kilometres north-west of the township of Bowen.",
+      "Country": "Australia",
+      "No. of Terminals": 42,
+      "No. of Berths": 31,
+      "Emissions rating (from A to F)": "B",
+      "Vessel calls": 234,
+      "Tugboat jobs": 123
+    },
+    {
+      "Name": "Bell Bay",
+      "Description": "Bell Bay is an industrial centre and port located on the eastern shore of the Tamar River, in northern Tasmania, Australia. It lies just south of George Town. In the year ended June 2021, 3.6 million tonnes of exports and imports passed through Bell Bay.",
+      "Country": "Australia",
+      "No. of Terminals": 7,
+      "No. of Berths": 45,
+      "Emissions rating (from A to F)": "B",
+      "Vessel calls": 3432,
+      "Tugboat jobs": 123
+    },
+    {
+      "Name": "Yangjiang",
+      "Description": "The Port of Yangjiang is a natural estuary port on the coast of the city of Yangjiang, Guangdong Province, People's Republic of China. In 2013 it had a total cargo throughput of 21 million tonnes, an increase of 30%, mostly handling ore and coal. The Port has 1 major port area and 6 port operation areas. 15 berths",
+      "Country": "China",
+      "No. of Terminals": 1,
+      "No. of Berths": 15,
+      "Emissions rating (from A to F)": "C",
+      "Vessel calls": 423,
+      "Tugboat jobs": 412
+    },
+    {
+      "Name": "Sitra",
+      "Description": "Under the jurisdiction of the Bahrain Government Harbour Master at Mina Sulman. Comprises a number of private jetties, handles dry and liquid bulk including petroleum products, chemicals and LPG.\nSitra Inner Anchorage lies on the northern side of the fairway between Sitra Lightbuoy and Mina Sulman, offering protection from the prevailing NW winds.",
+      "Country": "Bahrain",
+      "No. of Terminals": 23,
+      "No. of Berths": 21,
+      "Emissions rating (from A to F)": "D",
+      "Vessel calls": 213,
+      "Tugboat jobs": 183
+    },
+    {
+      "Name": "Rafina",
+      "Description": "The port of Rafina is located 33 km east of the center of Athens. It is very close to the Athens International airport Eleftherios Venizelos and it's also connected with the national road Athinon-Lamias",
+      "Country": "Greece",
+      "No. of Terminals": 18,
+      "No. of Berths": 23,
+      "Emissions rating (from A to F)": "C",
+      "Vessel calls": 123,
+      "Tugboat jobs": 150
+    }
+  ],
+  "Vessels": [
+    {
+      "Name": "EVER GREET",
+      "IMO number": 9709427,
+      "Vessel type": "General Cargo Ship",
+      "Age": 2015,
+      "Port arrival date": "11/30/2022",
+      "Port depature date": "12/08/2022"
+    },
+    {
+      "Name": "POOL EXPRESS",
+      "IMO number": 7455342,
+      "Vessel type": "Tug",
+      "Age": 2007,
+      "Port arrival date": "04/08/2022",
+      "Port depature date": "04/14/2022"
+    },
+    {
+      "Name": "LUSTRATIO",
+      "IMO number": 9473821,
+      "Vessel type": "Fishing Vessel",
+      "Age": 2014,
+      "Port arrival date": "06/14/2022",
+      "Port depature date": "06/22/2022"
+    },
+    {
+      "Name": "SEA LION",
+      "IMO number": 1920463,
+      "Vessel type": "Tug",
+      "Age": 2015,
+      "Port arrival date": "01/03/2022",
+      "Port depature date": "01/22/2022"
+    },
+    {
+      "Name": "KAPTAN METE",
+      "IMO number": 1249281,
+      "Vessel type": "Pilot Vessel",
+      "Age": 1899,
+      "Port arrival date": "05/18/2022",
+      "Port depature date": "05/30/2022"
+    },
+    {
+      "Name": "LEANNE P",
+      "IMO number": 9548372,
+      "Vessel type": "General Cargo Ship",
+      "Age": 2010,
+      "Port arrival date": "06/05/2022",
+      "Port depature date": "06/15/2022"
+    },
+    {
+      "Name": "TRIO",
+      "IMO number": 4121656,
+      "Vessel type": "Tug",
+      "Age": 2013,
+      "Port arrival date": "06/02/2022",
+      "Port depature date": "06/22/2022"
+    },
+    {
+      "Name": "DIAN KINGDOM",
+      "IMO number": 3520194,
+      "Vessel type": "Fishing Vessel",
+      "Age": 1970,
+      "Port arrival date": "01/21/2022",
+      "Port depature date": "02/04/2022"
+    },
+    {
+      "Name": "BENGKALIS 1",
+      "IMO number": 7461723,
+      "Vessel type": "Fishing Vessel",
+      "Age": 1993,
+      "Port arrival date": "02/08/2022",
+      "Port depature date": "02/22/2022"
+    },
+    {
+      "Name": "HUSEYIN 10",
+      "IMO number": 4231748,
+      "Vessel type": "Products Tanker",
+      "Age": 1991,
+      "Port arrival date": "09/12/2022",
+      "Port depature date": "09/18/2022"
+    },
+    {
+      "Name": "Amme02",
+      "IMO number": 5340295,
+      "Vessel type": "\t\nProducts Tanker",
+      "Age": 2016,
+      "Port arrival date": "04/06/2022",
+      "Port depature date": "04/26/2022"
+    },
+    {
+      "Name": "FAIRCHEM ALDEBARAN",
+      "IMO number": 4593028,
+      "Vessel type": "Tug",
+      "Age": 2015,
+      "Port arrival date": "12/23/2022",
+      "Port depature date": "01/11/2023"
+    },
+    {
+      "Name": "MISS BECKY",
+      "IMO number": 8053291,
+      "Vessel type": "Utility Vessel",
+      "Age": 1909,
+      "Port arrival date": "08/29/2022",
+      "Port depature date": "09/06/2022"
+    },
+    {
+      "Name": "PELANGI",
+      "IMO number": 3645386,
+      "Vessel type": "Drilling Ship",
+      "Age": 2007,
+      "Port arrival date": "08/02/2022",
+      "Port depature date": "08/17/2022"
+    },
+    {
+      "Name": "DEMIRLER 4",
+      "IMO number": 4364124,
+      "Vessel type": "General Cargo Ship",
+      "Age": 2014,
+      "Port arrival date": "06/01/2022",
+      "Port depature date": "06/12/2022"
+    },
+    {
+      "Name": "KOH TAKIEV",
+      "IMO number": 4326531,
+      "Vessel type": "Fishing Vessel",
+      "Age": 1992,
+      "Port arrival date": "12/15/2022",
+      "Port depature date": "12/29/2022"
+    },
+    {
+      "Name": "DODO",
+      "IMO number": 2784587,
+      "Vessel type": "Pilot Vessel",
+      "Age": 1970,
+      "Port arrival date": "02/13/2022",
+      "Port depature date": "02/17/2022"
+    },
+    {
+      "Name": "LTS 3000",
+      "IMO number": 5475246,
+      "Vessel type": "Patrol Vessel",
+      "Age": 2016,
+      "Port arrival date": "07/17/2022",
+      "Port depature date": "07/26/2022"
+    },
+    {
+      "Name": "CHANGYONG 1",
+      "IMO number": 4242315,
+      "Vessel type": "Tug",
+      "Age": 2010,
+      "Port arrival date": "11/03/2022",
+      "Port depature date": "11/11/2022"
+    },
+    {
+      "Name": "NITTO MARU NO. 31",
+      "IMO number": 3458978,
+      "Vessel type": "General Cargo Ship",
+      "Age": 2001,
+      "Port arrival date": "08/19/2022",
+      "Port depature date": "08/28/2022"
+    },
+    {
+      "Name": "RAIDER",
+      "IMO number": 4764243,
+      "Vessel type": "Utility Vessel",
+      "Age": 2014,
+      "Port arrival date": "07/20/2022",
+      "Port depature date": "08/04/2022"
+    }
+  ]
+}
